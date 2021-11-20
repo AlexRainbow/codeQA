@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(name)
+    print("name")
     print(len(name), "len var")
     x = input("you!!!")
     
